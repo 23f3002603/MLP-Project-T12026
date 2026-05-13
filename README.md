@@ -18,7 +18,7 @@ The work involved:
 
 # Competition Overview
 
-The project was based on the **Comment Category Prediction Challenge** hosted on [Kaggle](https://www.kaggle.com?utm_source=chatgpt.com).
+The project was based on the **Comment Category Prediction Challenge** hosted on [Kaggle]https://www.kaggle.com/competitions/comment-category-prediction-challenge
 
 The challenge required participants to analyze short textual comments and predict the final moderation or categorization label assigned by the platform.
 
@@ -63,6 +63,9 @@ The dataset consists of:
   * Sample submission file for Kaggle evaluation.
 
 ---
+# Dataset Access
+
+Dataset links are available in `dataset_links.md`.
 
 # Features Used
 
