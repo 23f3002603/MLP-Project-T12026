@@ -18,7 +18,7 @@ The work involved:
 
 # Competition Overview
 
-The project was based on the **Comment Category Prediction Challenge** hosted on [Kaggle]https://www.kaggle.com/competitions/comment-category-prediction-challenge
+The project was based on the **Comment Category Prediction Challenge** hosted on [Kaggle](https://www.kaggle.com/competitions/comment-category-prediction-challenge)
 
 The challenge required participants to analyze short textual comments and predict the final moderation or categorization label assigned by the platform.
 
