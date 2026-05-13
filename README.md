@@ -126,13 +126,13 @@ Performed:
 * and feature correlation exploration.
 
 Visualization
-[1. Target Variable Distribution](images/Target_variable_distribution.png)
+* [1. Target Variable Distribution](images/Target_variable_distribution.png)
 
-[2. Comment Length Distribution](images/Comment_length_distribution.png)
+* [2. Comment Length Distribution](images/Comment_length_distribution.png)
 
-[3. Comment Length by Label](images/Comment_length_by_label.png)
+* [3. Comment Length by Label](images/Comment_length_by_label.png)
 
-[4. Correlation Heatmap](images/Correlation_heatmap.png)
+* [4. Correlation Heatmap](images/Correlation_heatmap.png)
 ---
 
 ## 2. NLP Preprocessing
