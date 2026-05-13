@@ -67,6 +67,7 @@ The dataset consists of:
 
 Dataset links are available in `dataset_links.md`.
 
+
 # Features Used
 
 ## Textual Feature
@@ -124,6 +125,14 @@ Performed:
 * interaction feature analysis,
 * and feature correlation exploration.
 
+Visualization
+[1. Target Variable Distribution](images/Target_variable_distribution.png)
+
+[2. Comment Length Distribution](images/Comment_length_distribution.png)
+
+[3. Comment Length by Label](images/Comment_length_by_label.png)
+
+[4. Correlation Heatmap](images/Correlation_heatmap.png)
 ---
 
 ## 2. NLP Preprocessing
@@ -177,11 +186,11 @@ Hyperparameter optimization was performed using:
 
 ## Kaggle Leaderboard Score
 
-* **0.76262**
+* **0.81722**
 
 ## Validation Macro F1 Score
 
-* **0.7637**
+* **0.80**
 
 ## Course Grade
 
@@ -215,7 +224,7 @@ project/
 ├── README.md
 ├── requirements.txt
 ├── images/
-└── dataset_links.txt
+└── dataset_links.md
 ```
 
 ---
